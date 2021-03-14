@@ -1,12 +1,16 @@
 .box{
     float: left;
-    width: 22%;
+    width: 28%;
     margin: 0 40px;
 }
+
 h1{
     color: red;
     text-align: center;
 }
 .paragraph{
     color:seagreen
+}
+.poravnanje{
+    text-align: justify;
 }
