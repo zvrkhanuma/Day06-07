@@ -1,0 +1,12 @@
+.box{
+    float: left;
+    width: 22%;
+    margin: 0 40px;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+.paragraph{
+    color:seagreen
+}
